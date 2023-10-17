@@ -1,0 +1,20 @@
+What is Metasploit ?
+-> Metasploit is the most widely used exploitation framework. Metasploit is a powerful tool that can support all phases of a penetration testing engagement, from information gathering to post-exploitation.
+
+TryHackMe Room Completed - Metasploit: Introduction
+Link to room - https://tryhackme.com/room/metasploitintro
+
+Task 1 Answers - No Answer Needed
+
+Task 2 Answers - 
+Q - What is the name of the code taking advantage of a flaw on the target system?
+A - Exploit
+
+Q - What is the name of the code that runs on the target system to achieve the attacker's goal?
+A - Payload
+
+Q - What are self-contained payloads called?
+A - Singles
+
+Q - Is "windows/x64/pingback_reverse_tcp" among singles or staged payload?
+A - Singles
