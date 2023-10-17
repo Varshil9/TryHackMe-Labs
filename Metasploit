@@ -18,3 +18,25 @@ A - Singles
 
 Q - Is "windows/x64/pingback_reverse_tcp" among singles or staged payload?
 A - Singles
+
+Task 3 Answers - 
+Q - How would you search for a module related to Apache?
+A - search apache
+
+Q - Who provided the auxiliary/scanner/ssh/ssh_login module?
+A - todb
+
+Task 4 Answers - 
+Q - How would you set the LPORT value to 6666?
+A - set LPORT 6666
+
+Q - How would you set the global value for RHOSTS  to 10.10.19.23 ?
+A - setg RHOSTS 10.10.19.23
+
+Q - What command would you use to clear a set payload?
+A - unset PAYLOAD
+
+Q - What command do you use to proceed with the exploitation phase?
+A - exploit
+
+Task 5 Answers - No Answer Needed
