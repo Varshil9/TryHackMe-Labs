@@ -16,3 +16,49 @@ A - echo TryHackMe
 
 Q - What is the username of who you're logged in as on your deployed Linux machine?
 A - tryhackme
+
+Task 5 -
+
+Q - On the Linux machine that you deploy, how many folders are there?
+A - 4
+
+Q - Which directory contains a file? 
+A - folder4
+
+Q - What is the contents of this file?
+A - Hello World
+
+Q - Use the cd command to navigate to this file and find out the new current working directory. What is the path?
+A - /home/tryhackme/folder4
+
+Task 6 -
+
+Q - Use grep on "access.log" to find the flag that has a prefix of "THM". What is the flag?
+A - THM{ACCESS}
+
+Q - And I still haven't found what I'm looking for!
+A - No Answer Needed 
+
+Task 7 - 
+
+Q - If we wanted to run a command in the background, what operator would we want to use?
+A - &
+
+Q - If I wanted to replace the contents of a file named "passwords" with the word "password123", what would my command be?
+A - echo password123 > passwords
+
+
+Q - Now if I wanted to add "tryhackme" to this file named "passwords" but also keep "passwords123", what would my command be
+A - echo tryhackme >> passwords
+
+Q - Now use the deployed Linux machine to put these into practice
+A - No answer needed
+
+Task 8 - 
+
+Q - I'll have a play around!
+A - No answer needed
+
+Task 9 - No Answers needed 
+
+After completion of the part 1 you'll can start the part two of Linux Fundamentals - https://tryhackme.com/jr/linuxfundamentalspart2
